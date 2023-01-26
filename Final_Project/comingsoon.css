@@ -1,0 +1,306 @@
+body {
+  background-image: url("wallpaper4.jpg");
+}
+nav {
+  position: relative;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(0, 0, 0, 0.892);
+  position: absolute;
+  height: 75px;
+  margin-top: -9px;
+  margin-left: -8px;
+  width: 1518px;
+}
+
+.navButton {
+  background: rgba(103, 103, 103, 0.833);
+  text-align: center;
+  font-weight: 500;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin: 13px;
+  padding: 10px;
+  font-size: larger;
+  font-weight: 900;
+  width: 200px;
+  height: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px rgb(148, 148, 148);
+}
+.navButton:hover {
+  background-color: rgb(150, 150, 150);
+}
+
+
+h1 {
+  position: absolute;
+  margin-top: 90px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-left: 100px;
+  background-color: rgba(132, 132, 132, 0.767);
+  color: rgb(0, 0, 0);
+}
+
+.moviesoon1 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 440px;
+  margin-top: 150px;
+  margin-left: 150px;
+}
+
+#ant {
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+#line1 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.date1 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specification1 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.descript1 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.video1 {
+  position: absolute;
+  margin-top: 160px;
+  margin-left: 600px;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 700px;
+  height: 420px;
+}
+
+.ant-video {
+  margin-top: 45px;
+  margin-left: 30px;
+}
+
+.moviesoon2 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 440px;
+  margin-top: 650px;
+  margin-left: 150px;
+}
+
+#creed {
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+#line2 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.date2 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specification2 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.descript2 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.video2 {
+  position: absolute;
+  margin-top: 660px;
+  margin-left: 600px;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 700px;
+  height: 420px;
+}
+
+.creed-video {
+  margin-top: 45px;
+  margin-left: 30px;
+}
+
+.moviesoon3 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 440px;
+  margin-top: 1150px;
+  margin-left: 150px;
+}
+
+#john {
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+#line3 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.date3 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specification3 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.descript3 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.video3 {
+  position: absolute;
+  margin-top: 1160px;
+  margin-left: 600px;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 700px;
+  height: 420px;
+}
+
+.john-video {
+  margin-top: 45px;
+  margin-left: 30px;
+}
+
+h2 {
+  position: absolute;
+  margin-top: 1650px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: xx-large;
+  margin-left: 100px;
+  background-color: rgba(132, 132, 132, 0.767);
+  color: rgb(0, 0, 0);
+}
+
+.seriessoon1 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 440px;
+  margin-top: 1700px;
+  margin-left: 150px;
+}
+
+#last {
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+#line4 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.date4 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specification4 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.descript4 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.video4 {
+  position: absolute;
+  margin-top: 1710px;
+  margin-left: 600px;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 700px;
+  height: 420px;
+}
+
+.last-video {
+  margin-top: 45px;
+  margin-left: 30px;
+}
+
+.seriessoon2 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 440px;
+  margin-top: 2200px;
+  margin-left: 150px;
+}
+
+#you {
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+#line5 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.date5 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specification5 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.descript5 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.video5 {
+  position: absolute;
+  margin-top: 2210px;
+  margin-left: 600px;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 700px;
+  height: 420px;
+}
+
+.you-video {
+  margin-top: 45px;
+  margin-left: 30px;
+}

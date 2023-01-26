@@ -1,0 +1,497 @@
+body {
+  background-image: url("wallpaper2.jpg");
+}
+nav {
+  position: relative;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(0, 0, 0, 0.892);
+  position: absolute;
+  height: 75px;
+  margin-top: -9px;
+  margin-left: -8px;
+  width: 1518px;
+}
+
+.navButton {
+  background: rgba(103, 103, 103, 0.833);
+  text-align: center;
+  font-weight: 500;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin: 13px;
+  padding: 10px;
+  font-size: larger;
+  font-weight: 900;
+  width: 200px;
+  height: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px rgb(148, 148, 148);
+}
+.navButton:hover {
+  background-color: rgb(150, 150, 150);
+}
+
+
+h1 {
+  position: absolute;
+  margin-top: 90px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-left: 100px;
+  background-color: rgba(240, 255, 240, 0.442);
+  color: rgb(0, 0, 0);
+}
+
+.movie1 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 150px;
+  margin-left: 50px;
+}
+
+#dune {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star1 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb1 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific1 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description1 {
+  color: honeydew;
+  width: 280px;
+  margin-left: 17px;
+}
+
+.movie2 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 150px;
+  margin-left: 420px;
+}
+
+#glass {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star2 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb2 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific2 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description2 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.movie3 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 150px;
+  margin-left: 795px;
+}
+
+#avatar {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star3 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb3 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific3 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description3 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.movie4 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 150px;
+  margin-left: 1170px;
+}
+
+#bullet {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star4 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb4 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific4 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description4 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.movie5 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 550px;
+  margin-left: 50px;
+}
+
+#batman {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star5 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb5 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific5 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description5 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.movie6 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 550px;
+  margin-left: 420px;
+}
+
+#topg {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star6 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb6 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific6 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description6 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.movie7 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 550px;
+  margin-left: 795px;
+}
+
+#then {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star7 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb7 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific7 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description7 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.movie8 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 550px;
+  margin-left: 1170px;
+}
+
+#doc {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star8 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb8 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific8 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description8 {
+  color: honeydew;
+  width: 270px;
+  margin-left: 17px;
+}
+
+.movie9 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 950px;
+  margin-left: 50px;
+}
+
+#menu {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star9 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb9 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific9 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description9 {
+  color: honeydew;
+  width: 265px;
+  margin-left: 17px;
+}
+
+.movie10 {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.763);
+  width: 300px;
+  height: 360px;
+  margin-top: 950px;
+  margin-left: 420px;
+}
+
+#bans {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#star10 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.imdb10 {
+  margin-top: -20px;
+  margin-left: 35px;
+  color: honeydew;
+}
+
+.specific10 {
+  color: honeydew;
+  margin-left: 17px;
+}
+
+.description10 {
+  color: honeydew;
+  width: 265px;
+  margin-left: 17px;
+}
+
+.commentbox {
+  position: absolute;
+  color: honeydew;
+  width: 320px;
+  height: 350px;
+  background-color: rgba(0, 0, 0, 0.763);
+  margin-top: 950px;
+  margin-left: 760px;
+}
+
+.commenttext {
+  width: 240px;
+  margin-left: 20px;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.box {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+}
+
+.textarea {
+  width: 270px;
+  height: 180px;
+  margin-left: 20px;
+}
+
+.commentButton {
+  margin-top: 18px;
+  font-weight: bold;
+  font-size: 100%;
+  border: 2px solid honeydew;
+  background-color: rgba(0, 0, 0, 0.763);
+  color: honeydew;
+  margin-left: 170px;
+  width: 130px;
+}
+
+.commentEx {
+  margin-left: 360px;
+  margin-top: -330px;
+  max-width: 350px;
+}
+
+.commexample1 {
+  text-align: start;
+  background-color: rgba(0, 0, 0, 0.856);
+  color: honeydew;
+  width: 370px;
+  border: 4px solid rgb(255, 255, 255);
+}
+
+.com1 {
+  margin: 15px;
+}
+
+.commexample2 {
+  text-align: start;
+  background-color: rgba(0, 0, 0, 0.856);
+  color: honeydew;
+  width: 370px;
+  border: 4px solid rgb(255, 255, 255);
+}
+
+.com2 {
+  margin: 15px;
+}
+
+.commexample3 {
+  text-align: start;
+  background-color: rgba(0, 0, 0, 0.856);
+  color: honeydew;
+  width: 370px;
+  border: 4px solid rgb(255, 255, 255);
+}
+
+.com3 {
+  margin: 15px;
+}
+
+.deleteBtn {
+  font-weight: bold;
+  border: 2px solid honeydew;
+  background-color: rgba(0, 0, 0, 0.763);
+  color: honeydew;
+  margin-left: 300px;
+  margin-bottom: 10px;
+}
